@@ -1,0 +1,1 @@
+String algorithms include Knuth-Morris-Pratt, Z-function, Rabin-Karp rolling hash, suffix arrays, longest common prefixes, and suffix automata for pattern matching.

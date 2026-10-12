@@ -1,0 +1,1 @@
+Cosine similarity compares term frequency vectors and can rank related documents. Search systems use similarity scoring to find content connected to a query.

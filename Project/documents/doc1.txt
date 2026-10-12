@@ -1,0 +1,1 @@
+A search engine organizes words from documents into an inverted index. The index maps each term to the documents that contain it, making keyword lookup efficient.

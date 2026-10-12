@@ -1,0 +1,1 @@
+Edit distance measures the minimum number of insertions, deletions, or substitutions needed to transform one word into another. It can suggest spelling corrections.
